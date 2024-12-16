@@ -1,0 +1,32 @@
+User
+username
+phone_number
+roles
+
+Kategori Produk
+nama
+
+Produk
+nama
+harga
+deskripsi
+tags
+Kategori
+
+Galeri Produk
+Produk
+url 
+
+transaksi
+user
+alamat
+metode bayar
+total harga
+total pengiriman
+status
+
+detail transaksi
+user
+produk
+transaksi
+kuantitas
